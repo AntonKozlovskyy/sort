@@ -1,0 +1,3 @@
+idle               1-80
+step on            90-95
+step off           95-100
